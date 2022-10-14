@@ -1,0 +1,13 @@
+{
+  "endOfLine": "lf",
+  "printWidth": 100,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "importOrder": ["^(^react$|@react|react|^recoil$)", "<THIRD_PARTY_MODULES>", "^@/(.*)$", "^[./]"],
+  "singleAttributePerLine": true,
+  "importOrderGroupNamespaceSpecifiers": true,
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
